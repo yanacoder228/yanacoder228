@@ -2,6 +2,9 @@
 <br>
 Frontend Developer from Ukraine  
 <br>
+I love studying **Japanese language** 🇯🇵 and playing **chess** ♟️ in my free time.  
+My current goal is to pass the **JLPT N3** exam.  
+<br>
 <h2 align="left" id="ndiuky-stack">🔥 Tech stack</h2>
 
 > General
