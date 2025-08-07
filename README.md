@@ -67,18 +67,6 @@ Frontend Developer from Ukraine
       </a>
       <br>Next JS
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#ndiuky-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#ndiuky-stack">
-        <img src="https://mobx.js.org/assets/mobx.png" width="36" height="36" alt="Mobx" />
-      </a>
-      <br>Mobx
-    </td>
     <td align="center" width="110" height="90"> 
       <a href="#ndiuky-stack">
         <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="36" height="36" alt="Zustand" />
@@ -121,25 +109,25 @@ Frontend Developer from Ukraine
   <tr>
     <td align="center" width="110" height="90">
       <a href="#ndiuky-stack">
-        <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="36" height="36" alt="React" />
+        <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="36" height="36" alt="express" />
       </a>
       <br>Express
     </td>
     <td align="center" width="110" height="90">
       <a href="#ndiuky-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="36" height="36" alt="Next JS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="36" height="36" alt="Nest JS" />
       </a>
       <br>NestJS
     </td>
     <td align="center" width="110" height="90">
       <a href="#ndiuky-stack">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s" width="36" height="36" alt="Redux" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s" width="36" height="36" alt="mongodb" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#ndiuky-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" width="36" height="36" alt="Mobx" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" width="36" height="36" alt="postgresql" />
       </a>
       <br>PostgreSQL
     </td>
