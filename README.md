@@ -2,8 +2,10 @@
 <br>
 Frontend Developer from Ukraine  
 <br>
+Currently learning Nest.js
 I love studying <strong>Japanese language</strong> 🇯🇵 and playing <strong>chess</strong>♟️ in my free time.  
 My current goal is to pass the JLPT N3 exam.  
+
 <br>
 <h2 align="left" id="ndiuky-stack">🔥 Tech stack</h2>
 
@@ -197,3 +199,5 @@ My current goal is to pass the JLPT N3 exam.
     </td>
   </tr>
 </table>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanaesher)](https://github.com/anuraghazra/github-readme-stats)
