@@ -1,10 +1,22 @@
-<h1 align="left">🖐 Hello there! I'm Yana</h1>
-<br>
-Frontend Developer from Ukraine  
-<br>
-Currently learning Nest.js
-I love studying <strong>Japanese language</strong> 🇯🇵 and playing <strong>chess</strong>♟️ in my free time.  
-My current goal is to pass the JLPT N3 exam.  
+<h1 align="center">Hello there! I'm Yana 👋</h1>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="55%">
+
+🔹 **Front-end Developer** focused on **React**  
+🔹 Experienced with **TypeScript, React.js, Next.js, and Tailwind CSS**  
+🔹 Currently learning **Nest.js** and exploring back-end development — aiming to become a **Full-Stack Developer**
+
+   </td>
+    <td valign="top" width="45%">
+
+✨ I love studying **Japanese** 🇯🇵  
+♟️ Playing **chess** in my free time  
+
+   </td>
+  </tr>
+</table>
 
 <br>
 <h2 align="left" id="ndiuky-stack">🔥 Tech stack</h2>
