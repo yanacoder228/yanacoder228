@@ -120,7 +120,7 @@ and playing **chess** ♟️ in my free time.
   <tr>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
       <a href="#ndiuky-stack">
-        <img src="https://images.seeklogo.com/logo-png/33/2/express-js-logo-png_seeklogo-339850.png" width="36" height="36" alt="Express" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" width="36" height="36" alt="Express" />
       </a>
       <br>Express
     </td>
