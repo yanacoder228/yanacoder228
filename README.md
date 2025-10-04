@@ -95,7 +95,7 @@ and playing **chess** ♟️ in my free time.
     </td>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
       <a href="#ndiuky-stack">
-        <img src="https://vitejs.dev/logo-with-shadow.png" width="36" height="36" alt="Vite" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4XOdTwDFjrNDoRbCH2vDqCNCKD9u8zVr_g&s" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
     </td>
