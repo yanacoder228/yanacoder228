@@ -5,7 +5,7 @@
 🔹 Experienced with **TypeScript, React.js, Next.js, and Tailwind CSS**  
 🔹 Currently learning **Nest.js** and exploring back-end development — aiming to become a **Full-Stack Developer**
 
- <img src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-8e28-61f6-a9c5-c3a8012aaf12/raw?se=2025-10-04T10%3A28%3A26Z&sp=r&sv=2024-08-04&sr=b&scid=065dbae4-0d8e-5a62-854e-42c72b195056&skoid=0da8417a-a4c3-4a19-9b05-b82cee9d8868&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-04T05%3A05%3A15Z&ske=2025-10-05T05%3A05%3A15Z&sks=b&skv=2024-08-04&sig=gCdStFmQZaMeBH/MRg7j2dOzNsAa%2BirIatczvIdk2Lk%3D" width="150" height="35" alt="me" />
+ <img src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-8e28-61f6-a9c5-c3a8012aaf12/raw?se=2025-10-04T10%3A28%3A26Z&sp=r&sv=2024-08-04&sr=b&scid=065dbae4-0d8e-5a62-854e-42c72b195056&skoid=0da8417a-a4c3-4a19-9b05-b82cee9d8868&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-04T05%3A05%3A15Z&ske=2025-10-05T05%3A05%3A15Z&sks=b&skv=2024-08-04&sig=gCdStFmQZaMeBH/MRg7j2dOzNsAa%2BirIatczvIdk2Lk%3D" width="150" height="auto" alt="me" />
  
 ## ✨ Interests
 I love studying **Japanese** 🇯🇵  
