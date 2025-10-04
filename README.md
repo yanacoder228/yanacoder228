@@ -4,8 +4,9 @@
 🔹 Experienced with **TypeScript, React.js, Next.js, and Tailwind CSS**  
 🔹 Currently learning **Nest.js** and exploring back-end development — aiming to become a **Full-Stack Developer**
 
-✨ I love studying **Japanese** 🇯🇵  
-♟️ Playing **chess** in my free time  
+## ✨ Interests
+I love studying **Japanese** 🇯🇵  
+and playing **chess** ♟️ in my free time.
 
    </td>
   </tr>
