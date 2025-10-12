@@ -5,10 +5,6 @@
 🔹 Experienced with **TypeScript, React.js, Next.js, and Tailwind CSS**  
 🔹 Currently learning **Nest.js** and exploring back-end development — aiming to become a **Full-Stack Developer**
 
-<div style="background-color:#f0f0f0; text-align:center; padding:20px;">
- <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-d338-622f-81ef-e6224c70395d/raw?se=2025-10-04T10%3A44%3A48Z&sp=r&sv=2024-08-04&sr=b&scid=022ce50c-dab9-5adb-8f9f-851af5d340a0&skoid=0da8417a-a4c3-4a19-9b05-b82cee9d8868&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-04T08%3A13%3A15Z&ske=2025-10-05T08%3A13%3A15Z&sks=b&skv=2024-08-04&sig=EVl6zRedrBJxVVqWq%2BoZKbgLv8bjwhaLRC/iZcoVn/c%3D" width="150" height="auto" alt="me" />
-</div>
-
 ## ✨ Interests
 I love studying **Japanese** 🇯🇵  
 and playing **chess** ♟️ in my free time.
